@@ -7,7 +7,7 @@ Fun Fact: My 1st job out of college was being QA!  I had a lot of good mentors b
 I've worked in the following technologies over the years:
 C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC 
 
-### Hi there 👋
+### Still working on this 👋
 
 <!--
 **jeffvaccaro/jeffvaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
