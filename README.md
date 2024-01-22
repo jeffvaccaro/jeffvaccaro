@@ -10,7 +10,7 @@ C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC
 Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx)
 
 
-### Still working on this...  More to come...
+More to come...
 
 <!--
 **jeffvaccaro/jeffvaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
