@@ -8,6 +8,8 @@ I've worked in the following technologies over the years:
 C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC 
 
 Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx)
+Connect with me on LinkedIn: (https://www.linkedin.com/in/jeffvaccaro/)
+
 
 
 More to come...
