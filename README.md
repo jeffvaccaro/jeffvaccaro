@@ -9,8 +9,8 @@ C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC
 
 Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx) <br/>
 Connect with me on LinkedIn: (https://www.linkedin.com/in/jeffvaccaro/)
-![linkedin](https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/bb401f5a-aa8a-42da-a000-fa1cd3d640dc)
 
+<img src='[figure/jupyterlab.png](https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/bb401f5a-aa8a-42da-a000-fa1cd3d640dc)' width='25'>
 
 
 More to come...
