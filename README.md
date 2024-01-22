@@ -11,7 +11,7 @@ Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvac
 Connect with me on LinkedIn: (https://www.linkedin.com/in/jeffvaccaro/)
 
 ![linkedin](https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/eca76eb3-2e53-45af-98f6-88e499355620)
-<img src='[linkedin](https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/eca76eb3-2e53-45af-98f6-88e499355620)' width='25'>
+<img src='[linkedin](https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/eca76eb3-2e53-45af-98f6-88e499355620)' width='10'>
 
 More to come...
 
