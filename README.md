@@ -7,7 +7,7 @@ Fun Fact: My 1st job out of college was being QA!  I had a lot of good mentors b
 I've worked in the following technologies over the years:
 C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC 
 
-Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx)
+Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx) <br/>
 Connect with me on LinkedIn: (https://www.linkedin.com/in/jeffvaccaro/)
 
 
