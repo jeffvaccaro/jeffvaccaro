@@ -8,11 +8,10 @@ I've worked in the following technologies over the years:
 C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC 
 
 Here is my current resume: [jeffvaccaro_current.docx](https://github.com/jeffvaccaro/jeffvaccaro/files/14015008/jeffvaccaro_current.docx) <br/><br/>
-
-Connect with me here:
+Connect with me here:<br/>
 <a href="https://www.linkedin.com/in/jeffvaccaro/"><img src='https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/eca76eb3-2e53-45af-98f6-88e499355620' width='50'></a>
 
-More to come...
+<b>More to come...</b>
 
 <!--
 **jeffvaccaro/jeffvaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
