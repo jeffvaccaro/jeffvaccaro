@@ -1,0 +1,187 @@
+C#, .NET, and Entity Framework:
+Dependency Injection (DI) and Inversion of Control (IoC):
+IoC:
+
+Design principle that transfers control of object creation to a container or framework.
+
+Example: Car parts provided by a factory instead of the car building its own parts.
+
+DI:
+
+Pattern that injects dependencies into classes.
+
+Promotes loose coupling and enhances testability and maintainability.
+
+Example: Plugging an appliance into a socket rather than having the appliance generate its own power.
+
+Types of DI in .NET:
+
+Transient: Creates a new instance each time.
+
+Use Case: Lightweight, stateless services.
+
+Scoped: Single instance per request.
+
+Use Case: Maintain state within a single request.
+
+Singleton: Single instance for the application's lifecycle.
+
+Use Case: Services that maintain state or are accessed frequently.
+
+Generics:
+Benefits:
+
+Type Safety at Compile Time
+
+Eliminating Casting
+
+Reduced Boxing and Unboxing
+
+Reusability and Maintainability
+
+Generic Collections:
+
+List<T>, Dictionary<TKey, TValue>, Queue<T>, Stack<T>, HashSet<T>
+
+Extension Methods:
+Definition: Adds new functionalities to an existing type without modifying its original code.
+
+Example:
+
+csharp
+
+Copy
+public static class StringExtensions {
+  public static bool IsNullOrEmpty(this string value) {
+    return string.IsNullOrEmpty(value);
+  }
+}
+SQL:
+Common Table Expressions (CTEs):
+
+Breaks down complex queries into simpler parts.
+
+Reference multiple times within the main query.
+
+Optimizes performance by avoiding repeated calculations.
+
+Indexes:
+
+Clustered Index: Stored in the order of the primary key.
+
+Non-Clustered Index: Can be on any field, used for searches.
+
+.NET Interview Questions:
+Inheritance: Enables code reuse, default inheritable classes.
+
+Class vs Object: Class is a definition, object is an instance.
+
+Managed vs Unmanaged Code: Managed by CLR, unmanaged executed by OS.
+
+Boxing and Unboxing: Converting a value type to an object and vice versa.
+
+LINQ: Querying and data manipulation tool.
+
+Stack vs Heap: Stack for value types, heap for reference types.
+
+Interface vs Abstract Class: Interface declares a contract, abstract class provides partial implementation.
+
+Delegate: Function pointer encapsulating a reference to a method.
+
+Constants vs ReadOnly: Constants are compile-time, ReadOnly are runtime.
+
+System.Object Methods: Includes ToString(), Equals(), GetHashCode(), GetType().
+
+Interfaces: Always public.
+
+General Concepts:
+LINQ (Language-Integrated Query):
+LINQ to Objects: For querying IEnumerable<T> collections.
+
+LINQ to SQL: Data access technology built by the C# team.
+
+LINQ to Entities: Data access technology built by the ADO.NET team.
+
+LINQ to XML: Easier querying of XML using LINQ to Objects.
+
+IEnumerable:
+Definition: Interface for iterating over a collection.
+
+Dependency Injection:
+Benefits: Loose coupling, enhanced testability, maintainability.
+
+Common Table Expressions (CTEs):
+Definition: Temporary result set in SQL.
+
+Advantages: Easier to read, can be referenced multiple times.
+
+Indexes:
+Clustered Index: Data rows sorted based on key values.
+
+Non-Clustered Index: Separate structure with pointers to data rows.
+
+Extension Methods:
+Definition: Adds new functionalities to an existing type.
+
+Syntax: Uses this keyword in the first parameter.
+
+JavaScript Closures:
+Definition: Function retains access to outer function's variables.
+
+Example:
+
+javascript
+
+Copy
+function outerFunction(outerVariable) {
+  return function innerFunction(innerVariable) {
+    console.log('Outer variable: ' + outerVariable);
+    console.log('Inner variable: ' + innerVariable);
+  };
+}
+
+const newFunction = outerFunction('outside');
+newFunction('inside');
+SQL JOIN Types:
+INNER JOIN: Returns rows with matching values in both tables.
+
+LEFT JOIN: Returns all rows from the left table, matched rows from the right.
+
+RIGHT JOIN: Returns all rows from the right table, matched rows from the left.
+
+FULL JOIN: Returns rows with a match in either table.
+
+ACID Properties:
+Atomicity: All operations complete or none.
+
+Consistency: Database transitions from one valid state to another.
+
+Isolation: Transactions are separated until finished.
+
+Durability: Committed transactions remain even after system failures.
+
+SQL Server:
+Transactions:
+Purpose: Ensure series of operations are executed as a single unit.
+
+Commands: BEGIN TRANSACTION, COMMIT, ROLLBACK.
+
+Optimizing SQL Queries:
+Strategies: Indexing, query analysis, avoiding SELECT *, efficient joins, normalization, caching, updating statistics.
+
+Deadlocks and Resolution:
+Definition: Transactions block each other, causing a cycle of dependencies.
+
+Resolution: Use T-SQL try-catch and retry logic.
+
+Integrating SQL Server with a Web Application:
+Connection Strings, ORM, API Endpoints
+
+Securing SQL Server Databases:
+Authentication, Authorization, Encryption, Auditing, Patch Management
+
+Tools and Frameworks:
+Entity Framework (EF), Sequelize, Dapper, SQL Server Management Studio (SSMS), Azure Data Studio
+
+Microservices Architecture:
+Database Per Service, Data Consistency, Communication
