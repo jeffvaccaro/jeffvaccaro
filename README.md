@@ -7,6 +7,10 @@ Fun Fact: My 1st job out of college was being QA!  I had a lot of good mentors b
 I've worked in the following technologies over the years:
 C#, SQL, JS, TS, Angular, Vue, React, WPF, ASP.Net, PHP
 
+I'm currently working on <a href="http://kickconnect-env-1.eba-bsj8msyj.us-east-1.elasticbeanstalk.com/">KickConnect</a> - A Customer Relationship Management tool for Marital Art Studios and beyond!  This is built using Angular (using TypeScript), Node/ExpressJS and MySQL currently hosted on AWS!
+
+Another side project I've done is <a href="http://resumeappv1.s3-website-us-east-1.amazonaws.com/">Contractor:25</a> - This was the beginning of my React and AWS journey!
+
 Here is my current resume: [vaccaro_resume2024](https://github.com/jeffvaccaro/jeffvaccaro/blob/main/vaccaro_resume2024.pdf) <br/><br/>
 Connect with me here:<br/>
 <a href="https://www.linkedin.com/in/jeffvaccaro/"><img src='https://github.com/jeffvaccaro/jeffvaccaro/assets/11790677/eca76eb3-2e53-45af-98f6-88e499355620' width='50'></a>
