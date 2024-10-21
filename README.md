@@ -5,7 +5,7 @@ I'm currently working in Angular/Typescript with a C# webAPI and SQL Server data
 Fun Fact: My 1st job out of college was being QA!  I had a lot of good mentors back then.  But one manager took me under his wing and allowed me to become the dev that I was meant to be.  He bought me VB books and allowed me to write my 1st <b>PAID</b> application!  My goal of that application was to make my QA job easier and ultimately that tool eliminated that position altogether!  My comment that I wrote for that application was something like: "I'm sorry, but this is my 1st real application...  Please update it!".
 
 I've worked in the following technologies over the years:
-C#, SQL, JS, TS, Angular, Vue, React, WPF, MVVM, MVC 
+C#, SQL, JS, TS, Angular, Vue, React, WPF, ASP.Net, PHP
 
 Here is my current resume: [vaccaro_resume2024](https://github.com/jeffvaccaro/jeffvaccaro/blob/main/vaccaro_resume2024.pdf) <br/><br/>
 Connect with me here:<br/>
